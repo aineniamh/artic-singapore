@@ -1,0 +1,103 @@
+100.00	3019	0	R	1	root
+100.00	3019	0	R1	131567	  cellular organisms
+100.00	3019	0	D	2759	    Eukaryota
+100.00	3019	0	D1	33154	      Opisthokonta
+100.00	3019	0	K	33208	        Metazoa
+100.00	3019	0	K1	6072	          Eumetazoa
+100.00	3019	0	K2	33213	            Bilateria
+100.00	3019	0	K3	33511	              Deuterostomia
+100.00	3019	0	P	7711	                Chordata
+100.00	3019	0	P1	89593	                  Craniata
+100.00	3019	0	P2	7742	                    Vertebrata
+100.00	3019	0	P3	7776	                      Gnathostomata
+100.00	3019	0	P4	117570	                        Teleostomi
+100.00	3019	0	P5	117571	                          Euteleostomi
+77.34	2335	0	P6	8287	                            Sarcopterygii
+77.34	2335	0	P7	1338369	                              Dipnotetrapodomorpha
+77.34	2335	0	P8	32523	                                Tetrapoda
+77.34	2335	0	P9	32524	                                  Amniota
+77.34	2335	0	C	40674	                                    Mammalia
+77.34	2335	0	C1	32525	                                      Theria
+77.34	2335	0	C2	9347	                                        Eutheria
+77.34	2335	0	C3	1437010	                                          Boreoeutheria
+77.28	2333	0	C4	314145	                                            Laurasiatheria
+77.05	2326	0	O	9362	                                              Eulipotyphla
+76.78	2318	0	F	9376	                                                Soricidae
+76.78	2318	0	F1	183662	                                                  Crocidurinae
+76.65	2314	0	G	9377	                                                    Suncus
+76.65	2314	2314	S	9378	                                                      Suncus murinus
+0.13	4	0	G	36801	                                                    Crocidura
+0.10	3	3	S	36802	                                                      Crocidura russula
+0.03	1	1	S	389337	                                                      Crocidura orientalis
+0.26	8	0	F	9373	                                                Talpidae
+0.10	3	0	G	62294	                                                  Mogera
+0.10	3	3	S	111428	                                                    Mogera robusta
+0.10	3	0	G	446352	                                                  Scaptochirus
+0.10	3	3	S	446353	                                                    Scaptochirus moschatus
+0.07	2	0	G	9374	                                                  Talpa
+0.07	2	2	S	9375	                                                    Talpa europaea
+0.13	4	0	O	33554	                                              Carnivora
+0.10	3	0	O1	379584	                                                Caniformia
+0.10	3	0	O2	3072906	                                                  Musteloidea
+0.10	3	0	F	9655	                                                    Mustelidae
+0.10	3	0	F1	169417	                                                      Lutrinae
+0.10	3	0	G	452643	                                                        Lutrogale
+0.10	3	3	S	452644	                                                          Lutrogale perspicillata
+0.03	1	0	O1	379583	                                                Feliformia
+0.03	1	0	F	9681	                                                  Felidae
+0.03	1	0	F1	338153	                                                    Pantherinae
+0.03	1	0	G	9688	                                                      Panthera
+0.03	1	1	S	9694	                                                        Panthera tigris
+0.07	2	0	O	9397	                                              Chiroptera
+0.03	1	0	O1	30559	                                                Megachiroptera
+0.03	1	0	F	9398	                                                  Pteropodidae
+0.03	1	0	F1	77241	                                                    Macroglossinae
+0.03	1	0	G	29075	                                                      Macroglossus
+0.03	1	1	S	326083	                                                        Macroglossus sobrinus
+0.03	1	0	O1	30560	                                                Microchiroptera
+0.03	1	0	F	9415	                                                  Phyllostomidae
+0.03	1	0	F1	40231	                                                    Carolliinae
+0.03	1	0	G	40232	                                                      Carollia
+0.03	1	1	S	40233	                                                        Carollia perspicillata
+0.03	1	0	O	9787	                                              Perissodactyla
+0.03	1	0	F	9788	                                                Equidae
+0.03	1	0	G	9789	                                                  Equus
+0.03	1	1	S	9798	                                                    Equus przewalskii
+0.07	2	0	C4	314146	                                            Euarchontoglires
+0.03	1	0	O	9443	                                              Primates
+0.03	1	0	O1	376911	                                                Strepsirrhini
+0.03	1	0	O2	376915	                                                  Lemuriformes
+0.03	1	0	F	30615	                                                    Cheirogaleidae
+0.03	1	0	G	122247	                                                      Allocebus
+0.03	1	1	S	3043103	                                                        Allocebus trichotus
+0.03	1	0	C5	314147	                                              Glires
+0.03	1	0	O	9989	                                                Rodentia
+0.03	1	0	O1	1963758	                                                  Myomorpha
+0.03	1	0	O2	337687	                                                    Muroidea
+0.03	1	0	F	10066	                                                      Muridae
+0.03	1	0	F1	39107	                                                        Murinae
+0.03	1	0	G	121584	                                                          Golunda
+0.03	1	1	S	121585	                                                            Golunda ellioti
+22.66	684	0	P6	7898	                            Actinopterygii
+22.66	684	0	C	186623	                              Actinopteri
+22.66	684	0	C1	41665	                                Neopterygii
+22.66	684	0	C2	32443	                                  Teleostei
+22.66	684	0	C3	1489341	                                    Osteoglossocephalai
+22.66	684	0	C4	186625	                                      Clupeocephala
+22.66	684	0	C5	186634	                                        Otomorpha
+22.66	684	0	C6	32519	                                          Ostariophysi
+22.66	684	0	C7	186626	                                            Otophysi
+22.62	683	0	C8	186627	                                              Cypriniphysae
+22.62	683	0	O	7952	                                                Cypriniformes
+22.62	683	0	O1	30727	                                                  Cyprinoidei
+22.62	683	0	F	2743709	                                                    Danionidae
+22.62	683	0	F1	2743713	                                                      Rasborinae
+22.62	683	0	G	27710	                                                        Rasbora
+22.16	669	669	S	2713774	                                                          Rasbora vaillantii
+0.46	14	14	S	582588	                                                          Rasbora jacobsoni
+0.03	1	0	C8	186628	                                              Characiphysae
+0.03	1	0	O	7991	                                                Characiformes
+0.03	1	0	O1	1489739	                                                  Characoidei
+0.03	1	0	F	7986	                                                    Anostomidae
+0.03	1	0	G	42617	                                                      Abramites
+0.03	1	1	S	1396860	                                                        Abramites hypselonotus

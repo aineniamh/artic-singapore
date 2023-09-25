@@ -1,0 +1,137 @@
+95.5855	105405	105405	U	0	unclassified
+4.4145	4868	0	R	1	root
+4.4145	4868	0	R1	131567	  cellular organisms
+4.4145	4868	0	D	2759	    Eukaryota
+4.4145	4868	0	D1	33154	      Opisthokonta
+4.4145	4868	0	K	33208	        Metazoa
+4.4145	4868	0	K1	6072	          Eumetazoa
+4.4145	4868	4	K2	33213	            Bilateria
+4.4091	4862	0	K3	33511	              Deuterostomia
+4.4091	4862	0	P	7711	                Chordata
+4.4091	4862	0	P1	89593	                  Craniata
+4.4091	4862	0	P2	7742	                    Vertebrata
+4.4091	4862	0	P3	7776	                      Gnathostomata
+4.4091	4862	0	P4	117570	                        Teleostomi
+4.4091	4862	2	P5	117571	                          Euteleostomi
+3.9429	4348	1	P6	8287	                            Sarcopterygii
+3.9420	4347	0	P7	1338369	                              Dipnotetrapodomorpha
+3.9420	4347	1	P8	32523	                                Tetrapoda
+3.9411	4346	1	P9	32524	                                  Amniota
+3.9402	4345	1	C	40674	                                    Mammalia
+3.9393	4344	2	C1	32525	                                      Theria
+3.9375	4342	2	C2	9347	                                        Eutheria
+3.9348	4339	9	C3	1437010	                                          Boreoeutheria
+3.9203	4323	5	C4	314145	                                            Laurasiatheria
+3.9039	4305	0	O	9362	                                              Eulipotyphla
+3.9039	4305	4	F	9376	                                                Soricidae
+3.9003	4301	14	F1	183662	                                                  Crocidurinae
+3.8831	4282	0	G	9377	                                                    Suncus
+3.8831	4282	4282	S	9378	                                                      Suncus murinus
+0.0045	5	2	G	36801	                                                    Crocidura
+0.0009	1	1	S	183721	                                                      Crocidura shantungensis
+0.0009	1	1	S	167044	                                                      Crocidura attenuata
+0.0009	1	1	S	36802	                                                      Crocidura russula
+0.0082	9	0	O	33554	                                              Carnivora
+0.0082	9	0	O1	379584	                                                Caniformia
+0.0082	9	0	O2	3072906	                                                  Musteloidea
+0.0082	9	0	F	9655	                                                    Mustelidae
+0.0082	9	0	F1	169417	                                                      Lutrinae
+0.0082	9	0	G	452643	                                                        Lutrogale
+0.0082	9	9	S	452644	                                                          Lutrogale perspicillata
+0.0036	4	0	O	9397	                                              Chiroptera
+0.0036	4	0	O1	30560	                                                Microchiroptera
+0.0027	3	1	F	9415	                                                  Phyllostomidae
+0.0009	1	0	F1	40238	                                                    Phyllostominae
+0.0009	1	0	G	148060	                                                      Vampyrum
+0.0009	1	1	S	148074	                                                        Vampyrum spectrum
+0.0009	1	0	F1	40237	                                                    Desmodontinae
+0.0009	1	0	G	148077	                                                      Diphylla
+0.0009	1	1	S	148089	                                                        Diphylla ecaudata
+0.0009	1	0	F	9431	                                                  Vespertilionidae
+0.0009	1	0	F1	981671	                                                    Miniopterinae
+0.0009	1	0	G	9432	                                                      Miniopterus
+0.0009	1	1	S	187007	                                                        Miniopterus fuliginosus
+0.0063	7	0	C4	314146	                                            Euarchontoglires
+0.0063	7	0	C5	314147	                                              Glires
+0.0063	7	1	O	9989	                                                Rodentia
+0.0027	3	0	O1	1963758	                                                  Myomorpha
+0.0018	2	0	O2	337687	                                                    Muroidea
+0.0009	1	0	F	337677	                                                      Cricetidae
+0.0009	1	0	F1	10026	                                                        Cricetinae
+0.0009	1	0	G	10033	                                                          Cricetus
+0.0009	1	1	S	10034	                                                            Cricetus cricetus
+0.0009	1	0	F	10066	                                                      Muridae
+0.0009	1	0	F1	39107	                                                        Murinae
+0.0009	1	0	G	10111	                                                          Praomys
+0.0009	1	1	S	119565	                                                            Praomys delectorum
+0.0009	1	0	O2	1963761	                                                    Dipodoidea
+0.0009	1	0	F	30648	                                                      Dipodidae
+0.0009	1	0	F1	35737	                                                        Dipodinae
+0.0009	1	0	G	73862	                                                          Dipus
+0.0009	1	1	S	73863	                                                            Dipus sagitta
+0.0027	3	0	O1	33553	                                                  Sciuromorpha
+0.0027	3	0	F	55153	                                                    Sciuridae
+0.0018	2	0	F1	337724	                                                      Callosciurinae
+0.0018	2	1	F2	337736	                                                        Callosciurini
+0.0009	1	0	G	64663	                                                          Callosciurus
+0.0009	1	1	S	64677	                                                            Callosciurus erythraeus
+0.0009	1	0	F1	9991	                                                      Sciurinae
+0.0009	1	1	F2	337752	                                                        Sciurini
+0.0009	1	0	C3	9348	                                          Xenarthra
+0.0009	1	0	O	948950	                                            Pilosa
+0.0009	1	0	O1	948952	                                              Vermilingua
+0.0009	1	0	F	9349	                                                Myrmecophagidae
+0.0009	1	0	G	9350	                                                  Tamandua
+0.0009	1	1	S	9351	                                                    Tamandua mexicana
+0.4643	512	0	P6	7898	                            Actinopterygii
+0.4643	512	0	C	186623	                              Actinopteri
+0.4643	512	0	C1	41665	                                Neopterygii
+0.4643	512	0	C2	32443	                                  Teleostei
+0.4643	512	0	C3	1489341	                                    Osteoglossocephalai
+0.4643	512	1	C4	186625	                                      Clupeocephala
+0.4625	510	0	C5	186634	                                        Otomorpha
+0.4625	510	0	C6	32519	                                          Ostariophysi
+0.4625	510	0	C7	186626	                                            Otophysi
+0.4625	510	0	C8	186627	                                              Cypriniphysae
+0.4625	510	0	O	7952	                                                Cypriniformes
+0.4625	510	0	O1	30727	                                                  Cyprinoidei
+0.4625	510	0	F	2743709	                                                    Danionidae
+0.4625	510	0	F1	2743713	                                                      Rasborinae
+0.4625	510	0	G	27710	                                                        Rasbora
+0.4552	502	502	S	2713774	                                                          Rasbora vaillantii
+0.0073	8	8	S	582588	                                                          Rasbora jacobsoni
+0.0009	1	0	C5	1489388	                                        Euteleosteomorpha
+0.0009	1	0	C6	123365	                                          Neoteleostei
+0.0009	1	0	C7	123366	                                            Eurypterygia
+0.0009	1	0	C8	123367	                                              Ctenosquamata
+0.0009	1	0	C9	123368	                                                Acanthomorphata
+0.0009	1	0	C10	123369	                                                  Euacanthomorphacea
+0.0009	1	1	C11	1489872	                                                    Percomorphaceae
+0.0018	2	0	K3	33317	              Protostomia
+0.0009	1	0	K4	2697495	                Spiralia
+0.0009	1	0	K5	1206795	                  Lophotrochozoa
+0.0009	1	0	P	6340	                    Annelida
+0.0009	1	0	C	6341	                      Polychaeta
+0.0009	1	0	C1	105389	                        Sedentaria
+0.0009	1	0	C2	105391	                          Canalipalpata
+0.0009	1	0	O	6362	                            Sabellida
+0.0009	1	0	F	6366	                              Sabellidae
+0.0009	1	0	G	51258	                                Sabella
+0.0009	1	1	S	85702	                                  Sabella spallanzanii
+0.0009	1	0	K4	1206794	                Ecdysozoa
+0.0009	1	0	K5	88770	                  Panarthropoda
+0.0009	1	0	P	6656	                    Arthropoda
+0.0009	1	0	P1	197563	                      Mandibulata
+0.0009	1	0	P2	197562	                        Pancrustacea
+0.0009	1	0	P3	6960	                          Hexapoda
+0.0009	1	0	C	50557	                            Insecta
+0.0009	1	0	C1	85512	                              Dicondylia
+0.0009	1	0	C2	7496	                                Pterygota
+0.0009	1	0	C3	33340	                                  Neoptera
+0.0009	1	0	C4	33341	                                    Polyneoptera
+0.0009	1	0	O	50622	                                      Plecoptera
+0.0009	1	0	O1	70404	                                        Perloidea
+0.0009	1	0	F	51551	                                          Perlidae
+0.0009	1	0	F1	466868	                                            Acroneuriinae
+0.0009	1	0	G	1471780	                                              Flavoperla
+0.0009	1	1	S	2810149	                                                Flavoperla hatakeyamae
