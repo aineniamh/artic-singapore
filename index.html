@@ -654,6 +654,50 @@
         });
         </script>
 
+    <h3>Table 2: Merged results (6 libraries)</h3>
+        <table class="display nowrap" id="myTable">
+            <thead>
+                <tr>
+                    <th style="width:30%;">Workflow</th>
+                    <th style="width:30%;">Database</th>
+                    <th style="width:40%;"></th>
+                </tr>
+            </thead>
+                <tbody>
+                        
+                        <tr><td>wf-metagenomics</td>
+                            <td>PlusPF-8</td>
+                            <td><a href="https://aineniamh.github.io/artic-singapore/wf-metagenomics/wf-metagenomics/6run_merged_wf-metagenomics_report.html">EPI2ME report</a></td></tr>
+                        
+                        <tr><td>wf-metagenomics</td>
+                            <td>viral</td>
+                            <td><a href="https://aineniamh.github.io/artic-singapore/wf-metagenomics/wf-metagenomics/6run_merged_wf-metagenomics_report.html">EPI2ME report</a></td>
+                        
+                        </tbody>
+        </table>
+
+        <script type="text/javascript">
+        $(document).ready(function() {
+            var table = $('#myTable').DataTable({
+                "paging": false,
+                "border-bottom": false,
+                dom: 'frtip',
+                buttons: ["copy", "csv", "print"]
+            });
+            table.buttons().container().appendTo($('#tableExportID'));
+            $('a.toggle-vis').on('click', function(e) {
+                e.preventDefault();
+
+                // Get the column API object
+                var column = table.column($(this).attr('data-column'));
+
+                // Toggle the visibility
+                column.visible(!column.visible());
+            });
+
+        });
+        </script>
+
         <footer class="page-footer">
             <div class="container-fluid text-right text-md-right">
                 <hr>
