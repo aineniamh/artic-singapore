@@ -1,0 +1,38 @@
+99.2085	15794	15794	U	0	unclassified
+0.7915	126	0	R	1	root
+0.7915	126	0	D	10239	  Viruses
+0.6407	102	0	D1	2559587	    Riboviria
+0.6407	102	0	K	2732396	      Orthornavirae
+0.6407	102	0	P	2497569	        Negarnaviricota
+0.6407	102	0	P1	2497571	          Polyploviricotina
+0.6407	102	0	C	2497576	            Ellioviricetes
+0.6407	102	0	O	1980410	              Bunyavirales
+0.5842	93	0	F	1980416	                Peribunyaviridae
+0.5842	93	0	G	11572	                  Orthobunyavirus
+0.3329	53	53	S	35306	                    Simbu orthobunyavirus
+0.2513	40	0	S	2560743	                    Schmallenberg orthobunyavirus
+0.2513	40	40	S1	159150	                      Shamonda orthobunyavirus
+0.0565	9	0	F	1980415	                Nairoviridae
+0.0565	9	0	G	1980517	                  Orthonairovirus
+0.0440	7	0	S	2843830	                    Bandia orthonairovirus
+0.0440	7	7	S1	248060	                      Bandia virus
+0.0063	1	1	S	2170062	                    Chim orthonairovirus
+0.0063	1	0	S	2844011	                    Congoid orthonairovirus
+0.0063	1	1	S1	2849717	                      Crimean-Congo hemorrhagic fever virus 2
+0.1005	16	0	C	2840056	    Naldaviricetes
+0.1005	16	0	O	2840070	      Lefavirales
+0.1005	16	0	F	10442	        Baculoviridae
+0.1005	16	0	G	558017	          Betabaculovirus
+0.1005	16	16	S	56947	            Choristoneura fumiferana granulovirus
+0.0440	7	0	D1	2731341	    Duplodnaviria
+0.0440	7	0	K	2731360	      Heunggongvirae
+0.0440	7	0	P	2731618	        Uroviricota
+0.0440	7	0	C	2731619	          Caudoviricetes
+0.0314	5	5	G	1623284	            Kostyavirus
+0.0126	2	0	F	2731689	            Chaseviridae
+0.0126	2	0	F1	2842409	              Cleopatravirinae
+0.0126	2	0	G	2732960	                Carltongylesvirus
+0.0126	2	0	S	2844212	                  Carltongylesvirus mangalitsa
+0.0126	2	2	S1	2589658	                    Escherichia phage Mangalitsa
+0.0063	1	0	D1	12429	    unclassified viruses
+0.0063	1	1	S	1678078	      Mollivirus sibericum

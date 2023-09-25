@@ -1,0 +1,33 @@
+86.6929	53786	53786	U	0	unclassified
+13.3071	8256	0	R	1	root
+13.3071	8256	0	D	10239	  Viruses
+11.9435	7410	0	D1	2559587	    Riboviria
+11.9435	7410	0	K	2732396	      Orthornavirae
+11.9435	7410	0	P	2497569	        Negarnaviricota
+11.9435	7410	0	P1	2497571	          Polyploviricotina
+11.9435	7410	0	C	2497576	            Ellioviricetes
+11.9435	7410	0	O	1980410	              Bunyavirales
+11.9435	7410	0	F	1980416	                Peribunyaviridae
+11.9435	7410	0	G	11572	                  Orthobunyavirus
+6.1329	3805	3805	S	35306	                    Simbu orthobunyavirus
+5.8106	3605	0	S	2560743	                    Schmallenberg orthobunyavirus
+5.8106	3605	3605	S1	159150	                      Shamonda orthobunyavirus
+1.3620	845	0	C	2840056	    Naldaviricetes
+1.3604	844	0	O	2840070	      Lefavirales
+1.3604	844	0	F	10442	        Baculoviridae
+1.3604	844	0	G	558017	          Betabaculovirus
+1.3604	844	844	S	56947	            Choristoneura fumiferana granulovirus
+0.0016	1	0	F	196937	      Nimaviridae
+0.0016	1	0	G	249585	        Whispovirus
+0.0016	1	0	S	342409	          White spot syndrome virus
+0.0016	1	1	S1	92652	            Shrimp white spot syndrome virus
+0.0016	1	0	D1	2731341	    Duplodnaviria
+0.0016	1	0	K	2731360	      Heunggongvirae
+0.0016	1	0	P	2731361	        Peploviricota
+0.0016	1	0	C	2731363	          Herviviricetes
+0.0016	1	0	O	548681	            Herpesvirales
+0.0016	1	0	F	10292	              Herpesviridae
+0.0016	1	0	F1	10357	                Betaherpesvirinae
+0.0016	1	0	G	10358	                  Cytomegalovirus
+0.0016	1	0	S	2169863	                    Papiine betaherpesvirus 3
+0.0016	1	1	S1	153301	                      Baboon cytomegalovirus OCOM4-37
