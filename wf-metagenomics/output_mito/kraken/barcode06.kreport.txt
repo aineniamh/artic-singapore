@@ -1,0 +1,115 @@
+95.9175	39495	39495	U	0	unclassified
+4.0825	1681	0	R	1	root
+4.0825	1681	0	R1	131567	  cellular organisms
+4.0825	1681	0	D	2759	    Eukaryota
+4.0825	1681	0	D1	33154	      Opisthokonta
+4.0825	1681	0	K	33208	        Metazoa
+4.0825	1681	0	K1	6072	          Eumetazoa
+4.0825	1681	0	K2	33213	            Bilateria
+4.0800	1680	0	K3	33511	              Deuterostomia
+4.0800	1680	0	P	7711	                Chordata
+4.0800	1680	0	P1	89593	                  Craniata
+4.0800	1680	0	P2	7742	                    Vertebrata
+4.0800	1680	0	P3	7776	                      Gnathostomata
+4.0800	1680	0	P4	117570	                        Teleostomi
+4.0800	1680	1	P5	117571	                          Euteleostomi
+3.6040	1484	0	P6	8287	                            Sarcopterygii
+3.6040	1484	0	P7	1338369	                              Dipnotetrapodomorpha
+3.6040	1484	0	P8	32523	                                Tetrapoda
+3.6016	1483	0	P9	32524	                                  Amniota
+3.6016	1483	0	C	40674	                                    Mammalia
+3.6016	1483	1	C1	32525	                                      Theria
+3.5992	1482	1	C2	9347	                                        Eutheria
+3.5943	1480	3	C3	1437010	                                          Boreoeutheria
+3.5700	1470	4	C4	314145	                                            Laurasiatheria
+3.5506	1462	0	O	9362	                                              Eulipotyphla
+3.5458	1460	0	F	9376	                                                Soricidae
+3.5458	1460	14	F1	183662	                                                  Crocidurinae
+3.5093	1445	0	G	9377	                                                    Suncus
+3.5093	1445	1445	S	9378	                                                      Suncus murinus
+0.0024	1	1	G	36801	                                                    Crocidura
+0.0024	1	0	F	9373	                                                Talpidae
+0.0024	1	0	G	1300116	                                                  Scapanulus
+0.0024	1	1	S	1300117	                                                    Scapanulus oweni
+0.0024	1	0	F	9363	                                                Erinaceidae
+0.0024	1	0	F1	30577	                                                  Erinaceinae
+0.0024	1	0	G	9364	                                                    Erinaceus
+0.0024	1	1	S	757341	                                                      Erinaceus amurensis
+0.0097	4	0	O	33554	                                              Carnivora
+0.0097	4	0	O1	379584	                                                Caniformia
+0.0097	4	0	O2	3072906	                                                  Musteloidea
+0.0097	4	0	F	9655	                                                    Mustelidae
+0.0097	4	0	F1	169417	                                                      Lutrinae
+0.0097	4	0	G	452643	                                                        Lutrogale
+0.0097	4	4	S	452644	                                                          Lutrogale perspicillata
+0.0170	7	0	C4	314146	                                            Euarchontoglires
+0.0170	7	0	C5	314147	                                              Glires
+0.0121	5	0	O	9975	                                                Lagomorpha
+0.0121	5	0	F	9979	                                                  Leporidae
+0.0121	5	0	G	104113	                                                    Nesolagus
+0.0121	5	5	S	235651	                                                      Nesolagus timminsi
+0.0049	2	0	O	9989	                                                Rodentia
+0.0049	2	0	O1	33553	                                                  Sciuromorpha
+0.0049	2	0	F	55153	                                                    Sciuridae
+0.0024	1	0	F1	337724	                                                      Callosciurinae
+0.0024	1	0	F2	337736	                                                        Callosciurini
+0.0024	1	1	G	226574	                                                          Sundasciurus
+0.0024	1	0	F1	9991	                                                      Sciurinae
+0.0024	1	0	F2	337752	                                                        Sciurini
+0.0024	1	0	G	2749099	                                                          Hadrosciurus
+0.0024	1	1	S	511841	                                                            Hadrosciurus spadiceus
+0.0024	1	0	C3	311790	                                          Afrotheria
+0.0024	1	0	O	28734	                                            Macroscelidea
+0.0024	1	0	F	28735	                                              Macroscelididae
+0.0024	1	0	G	29081	                                                Macroscelides
+0.0024	1	1	S	29082	                                                  Macroscelides proboscideus
+0.0024	1	0	C	8292	                                  Amphibia
+0.0024	1	0	C1	41666	                                    Batrachia
+0.0024	1	0	O	8342	                                      Anura
+0.0024	1	0	O1	8416	                                        Neobatrachia
+0.0024	1	0	O2	8417	                                          Hyloidea
+0.0024	1	1	F	43469	                                            Dendrobatidae
+0.4736	195	0	P6	7898	                            Actinopterygii
+0.4736	195	0	C	186623	                              Actinopteri
+0.4736	195	0	C1	41665	                                Neopterygii
+0.4736	195	0	C2	32443	                                  Teleostei
+0.4736	195	0	C3	1489341	                                    Osteoglossocephalai
+0.4736	195	1	C4	186625	                                      Clupeocephala
+0.4687	193	0	C5	186634	                                        Otomorpha
+0.4687	193	0	C6	32519	                                          Ostariophysi
+0.4687	193	0	C7	186626	                                            Otophysi
+0.4687	193	0	C8	186627	                                              Cypriniphysae
+0.4687	193	0	O	7952	                                                Cypriniformes
+0.4687	193	0	O1	30727	                                                  Cyprinoidei
+0.4687	193	0	F	2743709	                                                    Danionidae
+0.4687	193	0	F1	2743713	                                                      Rasborinae
+0.4687	193	0	G	27710	                                                        Rasbora
+0.4590	189	189	S	2713774	                                                          Rasbora vaillantii
+0.0097	4	4	S	582588	                                                          Rasbora jacobsoni
+0.0024	1	0	C5	1489388	                                        Euteleosteomorpha
+0.0024	1	0	C6	123365	                                          Neoteleostei
+0.0024	1	0	C7	123366	                                            Eurypterygia
+0.0024	1	0	C8	123367	                                              Ctenosquamata
+0.0024	1	0	C9	123368	                                                Acanthomorphata
+0.0024	1	0	C10	123369	                                                  Euacanthomorphacea
+0.0024	1	0	C11	1489872	                                                    Percomorphaceae
+0.0024	1	0	C12	1489875	                                                      Gobiaria
+0.0024	1	0	O	1489878	                                                        Gobiiformes
+0.0024	1	0	O1	8219	                                                          Gobioidei
+0.0024	1	0	F	8220	                                                            Gobiidae
+0.0024	1	0	F1	497678	                                                              Oxudercinae
+0.0024	1	0	G	86204	                                                                Periophthalmus
+0.0024	1	1	S	86205	                                                                  Periophthalmus argentilineatus
+0.0024	1	0	K3	33317	              Protostomia
+0.0024	1	0	K4	2697495	                Spiralia
+0.0024	1	0	K5	1206795	                  Lophotrochozoa
+0.0024	1	0	P	6447	                    Mollusca
+0.0024	1	0	C	6544	                      Bivalvia
+0.0024	1	0	C1	2785011	                        Autobranchia
+0.0024	1	0	C2	6545	                          Pteriomorphia
+0.0024	1	0	O	6546	                            Mytilida
+0.0024	1	0	O1	106220	                              Mytiloidea
+0.0024	1	0	F	6547	                                Mytilidae
+0.0024	1	0	F1	301959	                                  Mytilinae
+0.0024	1	0	G	6548	                                    Mytilus
+0.0024	1	1	S	6551	                                      Mytilus trossulus
