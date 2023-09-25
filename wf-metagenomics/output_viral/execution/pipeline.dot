@@ -1,0 +1,230 @@
+digraph "pipeline" {
+p0 [shape=point,label="",fixedsize=true,width=0.1,xlabel="Channel.fromPath"];
+p1 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="map"];
+p0 -> p1;
+
+p1 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="map"];
+p2 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="branch"];
+p1 -> p2;
+
+p2 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="branch"];
+p4 [label="fastcat"];
+p2 -> p4;
+
+p2 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="branch"];
+p6 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="map"];
+p2 -> p6;
+
+p3 [shape=point,label="",fixedsize=true,width=0.1];
+p4 [label="fastcat"];
+p3 -> p4 [label="extra_args"];
+
+p4 [label="fastcat"];
+p5 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="map"];
+p4 -> p5;
+
+p5 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="map"];
+p7 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="concat"];
+p5 -> p7;
+
+p6 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="map"];
+p7 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="concat"];
+p6 -> p7;
+
+p7 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="concat"];
+p16 [label="kraken_pipeline:kraken2_client"];
+p7 -> p16 [label="batch_items"];
+
+p8 [shape=point,label="",fixedsize=true,width=0.1];
+p9 [label="kraken_pipeline:unpackTaxonomy"];
+p8 -> p9 [label="taxonomy"];
+
+p9 [label="kraken_pipeline:unpackTaxonomy"];
+p31 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p9 -> p31;
+
+p10 [shape=point,label="",fixedsize=true,width=0.1];
+p12 [label="kraken_pipeline:unpackDatabase"];
+p10 -> p12 [label="database"];
+
+p11 [shape=point,label="",fixedsize=true,width=0.1];
+p12 [label="kraken_pipeline:unpackDatabase"];
+p11 -> p12 [label="kmer_distribution"];
+
+p12 [label="kraken_pipeline:unpackDatabase"];
+p13 [label="kraken_pipeline:determine_bracken_length"];
+p12 -> p13;
+
+p13 [label="kraken_pipeline:determine_bracken_length"];
+p32 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p13 -> p32 [label="BRACKEN_LENGTH"];
+
+p12 [label="kraken_pipeline:unpackDatabase"];
+p14 [label="kraken_pipeline:kraken_server"];
+p12 -> p14 [label="database"];
+
+p14 [label="kraken_pipeline:kraken_server"];
+p15 [shape=point];
+p14 -> p15;
+
+p16 [label="kraken_pipeline:kraken2_client"];
+p17 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="map"];
+p16 -> p17;
+
+p17 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="map"];
+p18 [shape=point];
+p17 -> p18;
+
+p19 [shape=point,label="",fixedsize=true,width=0.1];
+p20 [label="kraken_pipeline:progressive_stats"];
+p19 -> p20 [label="fastcat_stats"];
+
+p20 [label="kraken_pipeline:progressive_stats"];
+p47 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p20 -> p47;
+
+p16 [label="kraken_pipeline:kraken2_client"];
+p21 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="multiMap"];
+p16 -> p21;
+
+p21 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="multiMap"];
+p23 [shape=point];
+p21 -> p23;
+
+p21 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="multiMap"];
+p22 [shape=point];
+p21 -> p22;
+
+p24 [shape=point,label="",fixedsize=true,width=0.1];
+p27 [label="kraken_pipeline:progressive_kraken_reports"];
+p24 -> p27 [label="kreport"];
+
+p25 [shape=point,label="",fixedsize=true,width=0.1];
+p27 [label="kraken_pipeline:progressive_kraken_reports"];
+p25 -> p27 [label="sample_ids"];
+
+p26 [shape=point,label="",fixedsize=true,width=0.1];
+p27 [label="kraken_pipeline:progressive_kraken_reports"];
+p26 -> p27 [label="taxonomy"];
+
+p27 [label="kraken_pipeline:progressive_kraken_reports"];
+p30 [shape=point];
+p27 -> p30;
+
+p27 [label="kraken_pipeline:progressive_kraken_reports"];
+p29 [shape=point];
+p27 -> p29 [label="sample_id"];
+
+p27 [label="kraken_pipeline:progressive_kraken_reports"];
+p28 [shape=point];
+p27 -> p28 [label="taxonomy"];
+
+p12 [label="kraken_pipeline:unpackDatabase"];
+p31 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p12 -> p31;
+
+p31 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p32 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p31 -> p32;
+
+p32 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p34 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p32 -> p34;
+
+p33 [shape=point,label="",fixedsize=true,width=0.1,xlabel="Channel.of"];
+p34 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p33 -> p34;
+
+p34 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p35 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="first"];
+p34 -> p35;
+
+p35 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="first"];
+p36 [shape=point];
+p35 -> p36 [label="bracken_inputs"];
+
+p37 [shape=point,label="",fixedsize=true,width=0.1];
+p40 [label="kraken_pipeline:progressive_bracken"];
+p37 -> p40 [label="inputs"];
+
+p38 [shape=point,label="",fixedsize=true,width=0.1];
+p40 [label="kraken_pipeline:progressive_bracken"];
+p38 -> p40 [label="sample_ids"];
+
+p39 [shape=point,label="",fixedsize=true,width=0.1];
+p40 [label="kraken_pipeline:progressive_bracken"];
+p39 -> p40;
+
+p40 [label="kraken_pipeline:progressive_bracken"];
+p51 [label="kraken_pipeline:makeReport"];
+p40 -> p51;
+
+p40 [label="kraken_pipeline:progressive_bracken"];
+p42 [shape=point];
+p40 -> p42 [label="sample_id"];
+
+p40 [label="kraken_pipeline:progressive_bracken"];
+p41 [shape=point];
+p40 -> p41;
+
+p43 [shape=point,label="",fixedsize=true,width=0.1,xlabel="Channel.fromPath"];
+p44 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="first"];
+p43 -> p44;
+
+p44 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="first"];
+p51 [label="kraken_pipeline:makeReport"];
+p44 -> p51 [label="amr_reports"];
+
+p45 [label="kraken_pipeline:run_common:getVersions"];
+p47 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p45 -> p47 [label="software_versions"];
+
+p46 [label="kraken_pipeline:run_common:getParams"];
+p48 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p46 -> p48 [label="parameters"];
+
+p47 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p48 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p47 -> p48;
+
+p48 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p50 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p48 -> p50;
+
+p49 [shape=point,label="",fixedsize=true,width=0.1,xlabel="Channel.of"];
+p50 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p49 -> p50;
+
+p50 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="combine"];
+p51 [label="kraken_pipeline:makeReport"];
+p50 -> p51 [label="stuff"];
+
+p51 [label="kraken_pipeline:makeReport"];
+p52 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="mix"];
+p51 -> p52 [label="$out0"];
+
+p46 [label="kraken_pipeline:run_common:getParams"];
+p52 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="mix"];
+p46 -> p52 [label="parameters"];
+
+p45 [label="kraken_pipeline:run_common:getVersions"];
+p52 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="mix"];
+p45 -> p52 [label="software_versions"];
+
+p52 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="mix"];
+p53 [label="kraken_pipeline:output"];
+p52 -> p53;
+
+p53 [label="kraken_pipeline:output"];
+p54 [shape=point];
+p53 -> p54 [label="fname"];
+
+p16 [label="kraken_pipeline:kraken2_client"];
+p55 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="collect"];
+p16 -> p55;
+
+p55 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="collect"];
+p56 [label="kraken_pipeline:stop_kraken_server"];
+p55 -> p56;
+
+}

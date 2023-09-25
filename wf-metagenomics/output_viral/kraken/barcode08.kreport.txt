@@ -1,0 +1,12 @@
+99.7967	491	491	U	0	unclassified
+0.2033	1	0	R	1	root
+0.2033	1	0	D	10239	  Viruses
+0.2033	1	0	D1	2731341	    Duplodnaviria
+0.2033	1	0	K	2731360	      Heunggongvirae
+0.2033	1	0	P	2731618	        Uroviricota
+0.2033	1	0	C	2731619	          Caudoviricetes
+0.2033	1	0	F	2842327	            Rountreeviridae
+0.2033	1	0	F1	2732588	              Rakietenvirinae
+0.2033	1	0	G	2732589	                Andhravirus
+0.2033	1	0	S	2732591	                  Andhravirus andhra
+0.2033	1	1	S1	1958907	                    Staphylococcus phage Andhra
