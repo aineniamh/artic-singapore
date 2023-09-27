@@ -1,0 +1,160 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+3	d6/4ccc71	478723	process_run:download_references:taxid_from_name (2)	COMPLETED	0	2023-09-26 01:47:41.399	4.9s	3.4s	9.9%	26.5 MB	1.5 GB	1.8 MB	21.4 KB
+1	be/123360	478696	process_run:download_references:taxid_from_name (1)	COMPLETED	0	2023-09-26 01:47:41.359	6.1s	4.4s	7.4%	26.8 MB	1.5 GB	1.8 MB	20.8 KB
+4	c2/dd1ade	478672	process_run:download_references:taxid_from_name (3)	COMPLETED	0	2023-09-26 01:47:41.312	6.3s	4.8s	7.4%	26.7 MB	1.5 GB	1.8 MB	19 KB
+7	55/2dce9d	482516	process_run:move_or_compress (3)	COMPLETED	0	2023-09-26 01:47:47.677	2s	0ms	193.9%	3 MB	5.4 MB	44.4 MB	43.5 MB
+6	3a/0c506e	482429	process_run:move_or_compress (2)	COMPLETED	0	2023-09-26 01:47:47.459	2.9s	1s	211.3%	4.2 MB	9.9 MB	153.5 MB	149.1 MB
+5	7f/8a9cd0	481917	process_run:move_or_compress (1)	COMPLETED	0	2023-09-26 01:47:46.352	6.6s	5s	234.5%	8.9 MB	237.6 MB	503.7 MB	491.7 MB
+8	d7/6e7957	483305	process_run:move_or_compress (4)	COMPLETED	0	2023-09-26 01:47:49.672	4.6s	3s	206.3%	8.3 MB	236.6 MB	283.7 MB	276.9 MB
+9	cf/474fdf	483507	process_run:move_or_compress (5)	COMPLETED	0	2023-09-26 01:47:50.361	4.6s	3s	219.7%	4.1 MB	9.9 MB	307.3 MB	300.6 MB
+10	32/aaf8cd	484631	process_run:move_or_compress (6)	COMPLETED	0	2023-09-26 01:47:52.990	2.5s	1s	202.7%	3.1 MB	5.4 MB	108.3 MB	105.8 MB
+12	3b/0f6578	485059	process_run:move_or_compress (8)	COMPLETED	0	2023-09-26 01:47:54.251	1.9s	0ms	50.8%	3 MB	5.4 MB	1.1 MB	957.1 KB
+13	83/24e633	485448	process_run:move_or_compress (9)	COMPLETED	0	2023-09-26 01:47:55.022	1.7s	0ms	62.3%	3 MB	5.4 MB	64.9 KB	6.1 KB
+14	58/48cc9a	485622	process_run:move_or_compress (10)	COMPLETED	0	2023-09-26 01:47:55.531	1.6s	0ms	44.4%	3 MB	5.4 MB	105.1 KB	13.7 KB
+15	99/f849e5	485838	process_run:move_or_compress (11)	COMPLETED	0	2023-09-26 01:47:56.150	2s	0ms	32.5%	3 MB	5.4 MB	128.7 KB	21 KB
+16	8d/299187	486156	process_run:move_or_compress (12)	COMPLETED	0	2023-09-26 01:47:57.175	1.5s	0ms	43.0%	3.1 MB	5.4 MB	97.7 KB	6.3 KB
+17	a0/36e540	486558	process_run:move_or_compress (13)	COMPLETED	0	2023-09-26 01:47:58.169	1.5s	0ms	36.0%	3 MB	5.4 MB	138.9 KB	31.1 KB
+18	e4/7b362e	486696	process_run:move_or_compress (14)	COMPLETED	0	2023-09-26 01:47:58.701	1.5s	0ms	42.9%	3.1 MB	5.4 MB	82 KB	7 KB
+19	13/b87b35	487164	process_run:move_or_compress (15)	COMPLETED	0	2023-09-26 01:47:59.643	1.6s	0ms	34.0%	3 MB	5.4 MB	108.1 KB	16.7 KB
+20	53/7f2186	487370	process_run:move_or_compress (16)	COMPLETED	0	2023-09-26 01:48:00.201	1.7s	0ms	44.9%	3 MB	5.4 MB	240.9 KB	115.9 KB
+11	ed/ce0f30	486022	process_run:move_or_compress (7)	COMPLETED	0	2023-09-26 01:47:56.697	5.5s	3s	196.9%	8.4 MB	237.6 MB	336.7 MB	328.9 MB
+21	14/fe6097	487754	process_run:move_or_compress (17)	COMPLETED	0	2023-09-26 01:48:01.232	1.6s	0ms	35.4%	3.1 MB	5.4 MB	136.6 KB	12.6 KB
+22	19/43b6a6	488025	process_run:move_or_compress (18)	COMPLETED	0	2023-09-26 01:48:01.929	1.5s	0ms	33.7%	3 MB	5.4 MB	123.6 KB	15.9 KB
+23	f1/d403ae	488229	process_run:move_or_compress (19)	COMPLETED	0	2023-09-26 01:48:02.250	1.8s	0ms	33.5%	3 MB	5.4 MB	152.1 KB	28 KB
+24	12/af92e2	488430	process_run:move_or_compress (20)	COMPLETED	0	2023-09-26 01:48:02.856	1.8s	0ms	34.6%	3.1 MB	5.4 MB	270.3 KB	144.4 KB
+25	fc/5e6869	488620	process_run:move_or_compress (21)	COMPLETED	0	2023-09-26 01:48:03.417	1.7s	0ms	41.8%	3.1 MB	5.4 MB	115.6 KB	24.1 KB
+26	15/1c1009	488862	process_run:move_or_compress (22)	COMPLETED	0	2023-09-26 01:48:04.057	1.7s	1s	42.1%	3 MB	5.4 MB	82.5 KB	7.4 KB
+27	e4/2f5972	489058	process_run:move_or_compress (23)	COMPLETED	0	2023-09-26 01:48:04.713	1.7s	0ms	36.4%	3.1 MB	5.4 MB	160.4 KB	36.2 KB
+28	ad/b615f7	489246	process_run:move_or_compress (24)	COMPLETED	0	2023-09-26 01:48:05.121	7.5s	6s	214.2%	8.8 MB	237.6 MB	591.3 MB	580.5 MB
+29	5e/beb830	489553	process_run:download_references:download_references_by_taxid (1)	COMPLETED	0	2023-09-26 01:48:05.794	10.9s	9.6s	8.4%	31.4 MB	2.2 GB	5.6 MB	184.8 KB
+32	fd/ab1e8e	493754	process_run:download_references:filter_references (1)	COMPLETED	0	2023-09-26 01:48:17.743	1.9s	768ms	270.1%	3.1 MB	5.6 MB	5.5 MB	12.3 KB
+30	88/439c48	493474	process_run:download_references:download_references_by_taxid (2)	COMPLETED	0	2023-09-26 01:48:16.715	13.7s	12.8s	7.3%	38.2 MB	2.2 GB	6.5 MB	476.9 KB
+33	93/93edea	497230	process_run:download_references:filter_references (2)	COMPLETED	0	2023-09-26 01:48:30.474	1.6s	651ms	304.8%	3.1 MB	5.6 MB	5.5 MB	36.2 KB
+31	f2/7f4ea3	497202	process_run:download_references:download_references_by_taxid (3)	COMPLETED	0	2023-09-26 01:48:30.446	9.9s	8.9s	7.9%	30.4 MB	2.2 GB	5.3 MB	484.3 KB
+34	a4/d09c6c	500150	process_run:download_references:filter_references (3)	COMPLETED	0	2023-09-26 01:48:40.365	1.6s	619ms	321.6%	3.2 MB	5.6 MB	5.6 MB	102.5 KB
+2	3e/2ce454	500345	process_run:extract_reads:unpack_taxonomy	COMPLETED	0	2023-09-26 01:52:14.259	4.4s	4.3s	64.8%	7.5 MB	12.3 MB	496.4 MB	872.1 MB
+45	fd/3a1593	500760	process_run:extract_reads:extract_kraken_reads (11)	COMPLETED	0	2023-09-26 01:52:18.850	19s	17.8s	70.6%	495.5 MB	2.5 GB	639.5 MB	5.9 KB
+40	70/00b048	500769	process_run:extract_reads:extract_kraken_reads (6)	COMPLETED	0	2023-09-26 01:52:18.868	24.6s	23.2s	69.8%	503.3 MB	2.5 GB	679.6 MB	3.5 MB
+38	ce/bc08a4	500801	process_run:extract_reads:extract_kraken_reads (4)	COMPLETED	0	2023-09-26 01:52:18.888	29.4s	28s	71.2%	532.7 MB	2.5 GB	747.2 MB	9.2 MB
+37	de/93585c	503049	process_run:extract_reads:extract_kraken_reads (3)	COMPLETED	0	2023-09-26 01:52:37.816	30.4s	29.4s	74.6%	514.6 MB	2.5 GB	771.4 MB	365.5 KB
+35	9e/4d1854	504310	process_run:extract_reads:extract_kraken_reads (1)	COMPLETED	0	2023-09-26 01:52:48.306	21s	19.8s	71.8%	507.4 MB	2.5 GB	649.8 MB	144.5 KB
+44	31/8bd735	503574	process_run:extract_reads:extract_kraken_reads (10)	COMPLETED	0	2023-09-26 01:52:43.518	30.5s	29.4s	72.5%	538.8 MB	2.5 GB	766.7 MB	9.2 MB
+42	4d/5007bf	505949	process_run:extract_reads:extract_kraken_reads (8)	COMPLETED	0	2023-09-26 01:53:09.309	19.1s	18.1s	69.3%	509.1 MB	2.5 GB	639.5 MB	5.2 KB
+43	0d/e5e1a9	506631	process_run:extract_reads:extract_kraken_reads (9)	COMPLETED	0	2023-09-26 01:53:14.013	18.8s	17.8s	69.7%	505.2 MB	2.5 GB	639.5 MB	8.7 KB
+39	b6/868fe1	505750	process_run:extract_reads:extract_kraken_reads (5)	COMPLETED	0	2023-09-26 01:53:08.221	30.3s	29.2s	72.9%	530.1 MB	2.5 GB	752.7 MB	8.3 MB
+46	e5/58c574	508590	process_run:extract_reads:extract_kraken_reads (12)	COMPLETED	0	2023-09-26 01:53:32.792	19.1s	18.1s	68.2%	503 MB	2.5 GB	639.5 MB	5.4 KB
+47	7e/a7affa	510658	process_run:extract_reads:check_reads (1)	COMPLETED	0	2023-09-26 01:53:51.952	1.2s	98ms	27.6%	3.2 MB	5.6 MB	87.2 KB	1.3 KB
+36	82/e37e7f	508123	process_run:extract_reads:extract_kraken_reads (2)	COMPLETED	0	2023-09-26 01:53:28.459	24.8s	23.8s	69.8%	519.8 MB	2.5 GB	702.3 MB	11.7 MB
+48	59/9a3337	510887	process_run:extract_reads:check_reads (2)	COMPLETED	0	2023-09-26 01:53:53.151	1.5s	167ms	56.7%	3.2 MB	5.6 MB	3.6 MB	1.2 MB
+49	64/a3dd67	510927	process_run:extract_reads:check_reads (3)	COMPLETED	0	2023-09-26 01:53:53.247	1.6s	214ms	98.3%	3.2 MB	5.6 MB	9.3 MB	3.1 MB
+50	6f/004fda	511324	process_run:extract_reads:check_reads (4)	COMPLETED	0	2023-09-26 01:53:54.640	1.4s	131ms	35.6%	3.3 MB	5.6 MB	456.9 KB	143.3 KB
+51	87/7c3970	511389	process_run:extract_reads:check_reads (5)	COMPLETED	0	2023-09-26 01:53:54.854	1.8s	128ms	22.6%	3.2 MB	5.6 MB	238.5 KB	48 KB
+52	bd/13e0e2	511717	process_run:extract_reads:check_reads (6)	COMPLETED	0	2023-09-26 01:53:56.085	1.6s	239ms	94.1%	3.1 MB	5.6 MB	9.3 MB	3.1 MB
+41	75/1a6d89	509380	process_run:extract_reads:extract_kraken_reads (7)	COMPLETED	0	2023-09-26 01:53:38.500	19.3s	18s	67.1%	507 MB	2.5 GB	639.5 MB	3.8 KB
+53	f0/bff70b	511813	process_run:extract_reads:check_reads (7)	COMPLETED	0	2023-09-26 01:53:56.657	1.7s	95ms	29.1%	3.2 MB	5.6 MB	86.7 KB	1.1 KB
+54	d9/bd32df	512132	process_run:extract_reads:check_reads (8)	COMPLETED	0	2023-09-26 01:53:57.720	1.7s	118ms	33.0%	3.3 MB	5.6 MB	96.6 KB	2.9 KB
+56	33/b7bfb4	512274	process_run:extract_reads:check_reads (10)	COMPLETED	0	2023-09-26 01:53:58.405	1.7s	101ms	26.2%	3.3 MB	5.6 MB	86.6 KB	1 KB
+55	bb/e448d1	512182	process_run:extract_reads:check_reads (9)	COMPLETED	0	2023-09-26 01:53:57.820	2.4s	239ms	92.7%	3.2 MB	5.6 MB	8.4 MB	2.9 MB
+57	d0/f1e2e4	512673	process_run:assemble:subset_references (1)	COMPLETED	0	2023-09-26 01:53:59.437	2.3s	642ms	283.9%	3.2 MB	5.6 MB	5.3 MB	377 B
+58	f6/884763	512760	process_run:extract_reads:check_reads (11)	COMPLETED	0	2023-09-26 01:54:00.115	1.9s	286ms	99.1%	3.2 MB	5.6 MB	11.8 MB	3.9 MB
+60	61/8f896e	512826	process_run:assemble:subset_references (3)	COMPLETED	0	2023-09-26 01:54:00.242	2.1s	717ms	271.1%	3.2 MB	5.6 MB	5.6 MB	222 B
+61	09/0d5f17	513261	process_run:assemble:subset_references (4)	COMPLETED	0	2023-09-26 01:54:01.759	2.1s	881ms	242.0%	3.3 MB	5.6 MB	5.8 MB	104.3 KB
+59	d6/72bb8b	513338	process_run:assemble:subset_references (2)	COMPLETED	0	2023-09-26 01:54:02.077	2.4s	922ms	234.4%	3.1 MB	5.6 MB	6.3 MB	1.3 KB
+63	87/7f6968	513426	process_run:assemble:subset_references (6)	COMPLETED	0	2023-09-26 01:54:02.355	2.2s	759ms	265.6%	3.2 MB	5.6 MB	5.9 MB	403 B
+64	47/146c12	513869	process_run:assemble:subset_references (7)	COMPLETED	0	2023-09-26 01:54:03.880	2.5s	921ms	218.7%	3 MB	5.6 MB	6 MB	104.3 KB
+66	2e/9ac77c	514005	process_run:assemble:subset_references (9)	COMPLETED	0	2023-09-26 01:54:04.616	2.2s	748ms	261.4%	3.2 MB	5.6 MB	5.3 MB	222 B
+62	99/d04515	513932	process_run:assemble:subset_references (5)	COMPLETED	0	2023-09-26 01:54:04.466	2.7s	1.4s	186.2%	72.5 MB	2.3 GB	7.7 MB	1.3 KB
+65	aa/9a4520	514501	process_run:assemble:subset_references (8)	COMPLETED	0	2023-09-26 01:54:06.349	2.2s	644ms	289.9%	3.1 MB	5.6 MB	5.3 MB	377 B
+68	dd/3cf824	514664	process_run:assemble:subset_references (11)	COMPLETED	0	2023-09-26 01:54:07.230	2s	617ms	210.9%	3.2 MB	5.6 MB	5.5 MB	1.3 KB
+67	34/6c61a1	514600	process_run:assemble:subset_references (10)	COMPLETED	0	2023-09-26 01:54:06.804	2.5s	775ms	162.6%	3.3 MB	5.6 MB	5.8 MB	104.3 KB
+70	88/157732	515093	process_run:assemble:subset_references (13)	COMPLETED	0	2023-09-26 01:54:08.609	2.2s	650ms	284.2%	3.3 MB	5.6 MB	5.5 MB	389 B
+72	d4/1b490c	515257	process_run:assemble:subset_references (15)	COMPLETED	0	2023-09-26 01:54:09.321	2.5s	705ms	290.3%	3.3 MB	5.6 MB	6 MB	222 B
+69	bc/bb53ba	515205	process_run:assemble:subset_references (12)	COMPLETED	0	2023-09-26 01:54:09.206	2.7s	741ms	270.9%	3.2 MB	5.6 MB	5.3 MB	222 B
+74	22/d5b553	515912	process_run:extract_reads:check_reads (12)	FAILED	2	2023-09-26 01:54:11.949	1.5s	1.4s	-	-	-	-	-
+71	c5/3c8978	515646	process_run:assemble:subset_references (14)	COMPLETED	0	2023-09-26 01:54:10.795	3.1s	1.5s	182.3%	73.6 MB	2.3 GB	7.5 MB	1.3 KB
+73	54/b5c363	515876	process_run:assemble:subset_references (16)	COMPLETED	0	2023-09-26 01:54:11.840	2.5s	1.1s	190.7%	75.9 MB	2.4 GB	6.2 MB	104.3 KB
+75	1e/87ad47	516310	process_run:assemble:subset_references (17)	COMPLETED	0	2023-09-26 01:54:13.450	2.2s	641ms	303.2%	3.1 MB	5.6 MB	5.3 MB	222 B
+76	17/c685ce	516464	process_run:assemble:subset_references (18)	COMPLETED	0	2023-09-26 01:54:13.877	2.4s	637ms	280.6%	3.3 MB	5.6 MB	5.3 MB	222 B
+77	6f/18190e	516527	process_run:assemble:subset_references (19)	COMPLETED	0	2023-09-26 01:54:14.351	2.1s	703ms	272.0%	3.1 MB	5.6 MB	5.5 MB	222 B
+78	62/e6fb1b	516954	process_run:assemble:subset_references (20)	COMPLETED	0	2023-09-26 01:54:15.711	2s	678ms	289.3%	3.2 MB	5.6 MB	5.3 MB	377 B
+80	87/8d6f87	517120	process_run:assemble:subset_references (22)	COMPLETED	0	2023-09-26 01:54:16.434	1.8s	617ms	207.9%	3.1 MB	5.6 MB	6.2 MB	222 B
+79	a8/542132	517085	process_run:assemble:subset_references (21)	COMPLETED	0	2023-09-26 01:54:16.329	2.5s	1.1s	141.6%	67.8 MB	2.3 GB	7.3 MB	1.3 KB
+82	03/5d6f9c	517705	process_run:assemble:check_subset (1)	FAILED	2	2023-09-26 01:54:18.240	1.2s	1.2s	-	-	-	-	-
+81	b8/904b7a	517522	process_run:assemble:subset_references (23)	COMPLETED	0	2023-09-26 01:54:17.702	2.5s	931ms	226.3%	3.2 MB	5.6 MB	5.9 MB	104.3 KB
+85	36/483990	517888	process_run:assemble:subset_references (26)	COMPLETED	0	2023-09-26 01:54:18.847	2.4s	1.1s	212.2%	64.1 MB	2.3 GB	6.1 MB	104.3 KB
+84	5f/c382c5	518058	process_run:assemble:subset_references (25)	COMPLETED	0	2023-09-26 01:54:19.490	2.2s	824ms	232.5%	3.1 MB	5.6 MB	6.8 MB	403 B
+86	e3/5dfe6b	518593	process_run:assemble:check_subset (2)	FAILED	2	2023-09-26 01:54:21.300	1.2s	1.1s	-	-	-	-	-
+83	e9/cb17a9	518248	process_run:assemble:subset_references (24)	COMPLETED	0	2023-09-26 01:54:20.227	2.7s	1.4s	182.4%	68.8 MB	2.4 GB	7.5 MB	1.3 KB
+87	ca/ae7d3d	518671	process_run:assemble:check_subset (3)	COMPLETED	0	2023-09-26 01:54:21.741	1.8s	12ms	103.2%	3.3 MB	5.6 MB	60.5 KB	182 B
+89	60/2bb640	519075	process_run:assemble:check_subset (5)	FAILED	2	2023-09-26 01:54:22.901	1.6s	1.5s	-	-	-	-	-
+88	cb/3fef3b	518915	process_run:assemble:check_subset (4)	COMPLETED	0	2023-09-26 01:54:22.508	2.1s	16ms	91.4%	3.2 MB	5.6 MB	60.5 KB	181 B
+90	f8/135b63	519179	process_run:assemble:check_subset (6)	COMPLETED	0	2023-09-26 01:54:23.555	2s	18ms	37.2%	3.2 MB	5.6 MB	60.5 KB	181 B
+91	c7/ccd3ab	519422	process_run:assemble:check_subset (7)	FAILED	2	2023-09-26 01:54:24.535	1.4s	1.3s	-	-	-	-	-
+92	0b/49a5a2	519467	process_run:assemble:check_subset (8)	COMPLETED	0	2023-09-26 01:54:24.671	1.8s	13ms	44.4%	3.1 MB	5.6 MB	60.5 KB	181 B
+93	53/f7ba7b	519750	process_run:assemble:check_subset (9)	FAILED	2	2023-09-26 01:54:25.536	1.7s	1.6s	-	-	-	-	-
+94	4e/690baf	519910	process_run:assemble:check_subset (10)	COMPLETED	0	2023-09-26 01:54:25.966	1.4s	15ms	39.0%	3.1 MB	5.6 MB	60.5 KB	181 B
+95	a4/5afee6	520016	process_run:assemble:check_subset (11)	COMPLETED	0	2023-09-26 01:54:26.456	1.6s	13ms	44.4%	3.2 MB	5.6 MB	60.5 KB	181 B
+97	be/9801ae	520298	process_run:assemble:check_subset (13)	FAILED	2	2023-09-26 01:54:27.408	1.5s	1.4s	-	-	-	-	-
+96	f5/a7ea52	520254	process_run:assemble:check_subset (12)	FAILED	2	2023-09-26 01:54:27.263	1.8s	1.7s	-	-	-	-	-
+98	01/eef4c4	520517	process_run:assemble:check_subset (14)	FAILED	2	2023-09-26 01:54:28.071	1.8s	1.7s	-	-	-	-	-
+99	76/38451f	520724	process_run:assemble:check_subset (15)	COMPLETED	0	2023-09-26 01:54:28.934	1.8s	19ms	76.2%	3.2 MB	5.6 MB	60.5 KB	181 B
+100	4b/a663d5	520769	process_run:assemble:check_subset (16)	COMPLETED	0	2023-09-26 01:54:29.067	1.8s	19ms	78.0%	3.3 MB	5.6 MB	60.5 KB	181 B
+101	06/f3754e	520957	process_run:assemble:check_subset (17)	FAILED	2	2023-09-26 01:54:29.850	1.7s	1.6s	-	-	-	-	-
+102	8b/b033b3	521221	process_run:assemble:check_subset (18)	FAILED	2	2023-09-26 01:54:30.725	1.7s	1.7s	-	-	-	-	-
+103	8f/1f2368	521267	process_run:assemble:check_subset (19)	FAILED	2	2023-09-26 01:54:30.893	1.7s	1.6s	-	-	-	-	-
+104	df/ad0fba	521460	process_run:assemble:check_subset (20)	FAILED	2	2023-09-26 01:54:31.547	1.8s	1.7s	-	-	-	-	-
+106	95/061c40	521710	process_run:assemble:check_subset (22)	COMPLETED	0	2023-09-26 01:54:32.595	1.6s	14ms	41.0%	3.3 MB	5.6 MB	60.5 KB	181 B
+105	77/07bebc	521674	process_run:assemble:check_subset (21)	FAILED	2	2023-09-26 01:54:32.481	1.8s	1.7s	-	-	-	-	-
+107	35/7b1648	521896	process_run:assemble:check_subset (23)	COMPLETED	0	2023-09-26 01:54:33.371	1.7s	14ms	42.1%	3.2 MB	5.6 MB	60.5 KB	181 B
+108	06/0411c3	522142	process_run:assemble:check_subset (24)	COMPLETED	0	2023-09-26 01:54:34.168	1.5s	17ms	78.0%	3.2 MB	5.6 MB	60.5 KB	181 B
+109	d0/5171ba	522177	process_run:assemble:check_subset (25)	FAILED	2	2023-09-26 01:54:34.286	1.5s	1.4s	-	-	-	-	-
+110	1a/b33917	522484	process_run:assemble:check_subset (26)	COMPLETED	0	2023-09-26 01:54:35.081	1.5s	20ms	69.6%	3.1 MB	5.6 MB	60.5 KB	181 B
+112	af/42ba1d	522674	process_run:generate_assembly_report (1)	COMPLETED	0	2023-09-26 01:54:35.827	2.6s	975ms	174.3%	3.2 MB	5.6 MB	5.9 MB	44.1 KB
+111	ef/be04a8	522632	process_run:assemble:medaka_consensus (1)	COMPLETED	0	2023-09-26 01:54:35.682	21.2s	20s	159.6%	325.3 MB	2.9 GB	335.1 MB	21.2 MB
+113	4b/7ddd48	522895	process_run:assemble:medaka_consensus (2)	COMPLETED	0	2023-09-26 01:54:36.545	20.5s	19s	164.2%	327.7 MB	2.9 GB	338.2 MB	23.1 MB
+114	db/9f2658	523482	process_run:assemble:medaka_consensus (3)	COMPLETED	0	2023-09-26 01:54:38.418	20.7s	20s	160.6%	317.3 MB	2.9 GB	336.3 MB	21.9 MB
+116	b0/5742e8	527038	process_run:assemble:medaka_consensus (5)	COMPLETED	0	2023-09-26 01:54:57.071	20.1s	19s	152.6%	315.9 MB	2.9 GB	333.6 MB	20.5 MB
+115	ff/3b942f	527004	process_run:assemble:medaka_consensus (4)	COMPLETED	0	2023-09-26 01:54:56.931	21.3s	20s	148.6%	302.1 MB	2.6 GB	346.2 MB	27.7 MB
+117	ef/57727a	527614	process_run:assemble:medaka_consensus (6)	COMPLETED	0	2023-09-26 01:54:59.087	20.2s	19s	162.9%	331.5 MB	2.9 GB	335.1 MB	21.2 MB
+118	8f/625012	531144	process_run:assemble:medaka_consensus (7)	COMPLETED	0	2023-09-26 01:55:17.220	20.1s	18s	168.5%	346.1 MB	3.1 GB	345.7 MB	27.3 MB
+119	b0/19b281	531375	process_run:assemble:medaka_consensus (8)	COMPLETED	0	2023-09-26 01:55:18.275	20.2s	19s	164.3%	327.7 MB	3.2 GB	337.4 MB	22.5 MB
+120	8e/c15741	531695	process_run:assemble:medaka_consensus (9)	COMPLETED	0	2023-09-26 01:55:19.298	20.3s	19s	166.8%	329.3 MB	3.1 GB	344.6 MB	26.7 MB
+121	d7/250c6b	535441	process_run:assemble:medaka_consensus (10)	COMPLETED	0	2023-09-26 01:55:37.375	20.3s	20s	160.5%	328.9 MB	3.2 GB	335.9 MB	21.7 MB
+122	77/2162d3	535658	process_run:assemble:medaka_consensus (11)	COMPLETED	0	2023-09-26 01:55:38.477	20.4s	19s	164.5%	340.4 MB	2.9 GB	337.2 MB	22.4 MB
+124	7c/a0543a	539674	process_run:assemble:map_to_consensus (1)	COMPLETED	0	2023-09-26 01:55:57.718	1.3s	83ms	64.9%	3.2 MB	5.6 MB	508.4 KB	327.3 KB
+123	4b/1824ee	535982	process_run:assemble:medaka_consensus (12)	COMPLETED	0	2023-09-26 01:55:39.579	20.8s	19s	161.7%	335.9 MB	3.1 GB	345.6 MB	27.3 MB
+126	0c/b538c2	539972	process_run:assemble:map_to_consensus (3)	COMPLETED	0	2023-09-26 01:55:59.067	1.5s	125ms	147.5%	3.2 MB	5.6 MB	1.2 MB	1 MB
+125	78/d64c05	539935	process_run:assemble:map_to_consensus (2)	COMPLETED	0	2023-09-26 01:55:58.944	1.8s	189ms	165.2%	3.1 MB	5.6 MB	2.7 MB	2.6 MB
+127	28/04ba13	540337	process_run:assemble:map_to_consensus (4)	COMPLETED	0	2023-09-26 01:56:00.399	1.3s	54ms	46.2%	3.2 MB	5.6 MB	139.1 KB	57.7 KB
+128	df/0b9f37	540386	process_run:assemble:map_to_consensus (5)	COMPLETED	0	2023-09-26 01:56:00.591	2s	446ms	189.5%	3.2 MB	5.6 MB	7.5 MB	7.4 MB
+129	e9/3fe085	540500	process_run:assemble:map_to_consensus (6)	COMPLETED	0	2023-09-26 01:56:00.794	2s	75ms	78.3%	3.2 MB	5.6 MB	487.7 KB	301.2 KB
+130	18/96721e	540777	process_run:assemble:map_to_consensus (7)	COMPLETED	0	2023-09-26 01:56:01.743	2.4s	450ms	200.5%	3.2 MB	5.6 MB	6.8 MB	6.7 MB
+131	70/ac92a2	540998	process_run:assemble:map_to_consensus (8)	COMPLETED	0	2023-09-26 01:56:02.627	1.6s	171ms	172.4%	3.2 MB	5.6 MB	1.7 MB	1.6 MB
+132	05/84ef85	541044	process_run:assemble:map_to_consensus (9)	COMPLETED	0	2023-09-26 01:56:02.829	1.8s	335ms	175.2%	7.8 MB	305.2 MB	6.3 MB	6.2 MB
+133	7d/38410a	541532	process_run:assemble:map_to_consensus (10)	COMPLETED	0	2023-09-26 01:56:04.140	1.4s	113ms	114.9%	3.2 MB	5.6 MB	960.4 KB	784.3 KB
+134	02/a6ab2f	541577	process_run:assemble:map_to_consensus (11)	COMPLETED	0	2023-09-26 01:56:04.290	1.6s	161ms	170.6%	3.1 MB	5.6 MB	1.6 MB	1.4 MB
+135	32/245832	541695	process_run:assemble:define_mask (1)	COMPLETED	0	2023-09-26 01:56:04.600	2.1s	393ms	496.6%	3.2 MB	5.6 MB	5.4 MB	269 B
+136	dd/f33300	542004	process_run:assemble:map_to_consensus (12)	COMPLETED	0	2023-09-26 01:56:05.597	1.7s	408ms	185.6%	6.6 MB	241.3 MB	6.9 MB	6.8 MB
+137	e0/911f0c	542152	process_run:assemble:define_mask (2)	COMPLETED	0	2023-09-26 01:56:05.871	2s	348ms	560.1%	3.3 MB	5.6 MB	5.6 MB	269 B
+138	f7/f5b43d	542415	process_run:assemble:define_mask (3)	COMPLETED	0	2023-09-26 01:56:06.728	1.7s	319ms	614.9%	3 MB	5.6 MB	6 MB	253 B
+139	dd/527ffd	542643	process_run:assemble:define_mask (4)	COMPLETED	0	2023-09-26 01:56:07.261	1.9s	304ms	621.9%	3 MB	5.6 MB	5.3 MB	253 B
+140	ff/9b7278	542844	process_run:assemble:define_mask (5)	COMPLETED	0	2023-09-26 01:56:07.932	2s	355ms	556.3%	3.2 MB	5.6 MB	7.1 MB	253 B
+141	35/e0bdac	543038	process_run:assemble:define_mask (6)	COMPLETED	0	2023-09-26 01:56:08.458	2.2s	327ms	606.0%	3 MB	5.6 MB	5.4 MB	269 B
+142	ac/0bb3f5	543205	process_run:assemble:define_mask (7)	COMPLETED	0	2023-09-26 01:56:09.130	2.5s	432ms	477.0%	3.2 MB	5.6 MB	7.1 MB	253 B
+143	25/0072cb	543399	process_run:assemble:define_mask (8)	COMPLETED	0	2023-09-26 01:56:09.907	2s	365ms	512.1%	3.2 MB	5.6 MB	5.8 MB	269 B
+144	0e/0785a6	543599	process_run:assemble:define_mask (9)	COMPLETED	0	2023-09-26 01:56:10.646	2.2s	364ms	503.6%	3.1 MB	5.6 MB	7 MB	253 B
+145	3f/238be4	543888	process_run:assemble:define_mask (10)	COMPLETED	0	2023-09-26 01:56:11.662	1.8s	328ms	584.8%	3.1 MB	5.6 MB	5.6 MB	269 B
+146	91/07f53f	543979	process_run:assemble:define_mask (11)	COMPLETED	0	2023-09-26 01:56:11.950	2.3s	348ms	577.2%	3.2 MB	5.6 MB	5.7 MB	269 B
+147	e4/0788df	544222	process_run:assemble:apply_mask (1)	COMPLETED	0	2023-09-26 01:56:12.857	1.6s	32ms	56.1%	3.3 MB	5.6 MB	173.5 KB	102.5 KB
+148	80/c5fbb3	544385	process_run:assemble:define_mask (12)	COMPLETED	0	2023-09-26 01:56:13.440	2.2s	381ms	482.5%	3.3 MB	5.6 MB	7.1 MB	253 B
+149	61/753f16	544598	process_run:assemble:apply_mask (2)	COMPLETED	0	2023-09-26 01:56:14.273	1.5s	29ms	53.3%	3 MB	5.6 MB	173.5 KB	102.5 KB
+150	53/aad17e	544646	process_run:assemble:apply_mask (3)	COMPLETED	0	2023-09-26 01:56:14.433	1.6s	28ms	24.6%	3.3 MB	5.6 MB	72.2 KB	1.1 KB
+152	47/1f466e	545134	process_run:assemble:apply_mask (5)	COMPLETED	0	2023-09-26 01:56:15.826	1.4s	27ms	57.1%	3.2 MB	5.6 MB	72.2 KB	1.1 KB
+151	2f/27d426	545088	process_run:assemble:apply_mask (4)	COMPLETED	0	2023-09-26 01:56:15.690	1.7s	27ms	53.3%	3.2 MB	5.6 MB	72.1 KB	1.1 KB
+153	e1/ff997d	545182	process_run:assemble:apply_mask (6)	COMPLETED	0	2023-09-26 01:56:16.095	2.1s	33ms	21.6%	3.2 MB	5.6 MB	173.5 KB	102.5 KB
+154	69/8f67f2	545535	process_run:assemble:apply_mask (7)	COMPLETED	0	2023-09-26 01:56:17.220	1.5s	28ms	51.6%	3.2 MB	5.6 MB	72.1 KB	1.1 KB
+155	69/77756a	545604	process_run:assemble:apply_mask (8)	COMPLETED	0	2023-09-26 01:56:17.385	2s	28ms	56.1%	3.1 MB	5.6 MB	173.5 KB	102.5 KB
+156	7a/f5356b	545890	process_run:assemble:apply_mask (9)	COMPLETED	0	2023-09-26 01:56:18.161	1.5s	29ms	52.5%	3.1 MB	5.6 MB	72.2 KB	1.1 KB
+157	30/ba7d69	546069	process_run:assemble:apply_mask (10)	COMPLETED	0	2023-09-26 01:56:18.685	1.9s	28ms	27.1%	3.1 MB	5.6 MB	173.5 KB	102.5 KB
+159	38/3978a9	546295	process_run:assemble:apply_mask (12)	COMPLETED	0	2023-09-26 01:56:19.659	1.4s	29ms	55.2%	3.1 MB	5.6 MB	72.2 KB	1.1 KB
+158	c6/b168cb	546218	process_run:assemble:apply_mask (11)	COMPLETED	0	2023-09-26 01:56:19.373	1.9s	32ms	53.3%	3.1 MB	5.6 MB	173.5 KB	102.5 KB

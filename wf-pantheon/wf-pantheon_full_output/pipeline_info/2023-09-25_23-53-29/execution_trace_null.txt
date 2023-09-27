@@ -1,0 +1,35 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+3	24/5f3be7	296264	process_run:download_references:taxid_from_name (3)	CACHED	0	2023-09-25 23:44:42.454	7.5s	5.5s	6.0%	26.9 MB	1.5 GB	1.8 MB	19 KB
+2	a2/d7d4b9	296281	process_run:download_references:taxid_from_name (2)	CACHED	0	2023-09-25 23:44:42.505	7.9s	5.9s	5.6%	25.6 MB	1.5 GB	1.8 MB	21.4 KB
+1	a8/d224f8	296235	process_run:download_references:taxid_from_name (1)	CACHED	0	2023-09-25 23:44:42.404	7.8s	5.8s	5.9%	27.8 MB	1.5 GB	1.8 MB	20.8 KB
+4	b1/f28dbd	300541	process_run:move_or_compress (1)	CACHED	0	2023-09-25 23:44:49.954	6.5s	5s	226.2%	8.7 MB	237.6 MB	503.7 MB	491.7 MB
+6	73/e26bc0	307409	process_run:download_references:download_references_by_taxid (1)	CACHED	0	2023-09-25 23:45:10.991	15.7s	14s	7.1%	32.5 MB	2.2 GB	5.3 MB	484.3 KB
+8	53/a5c5ab	312869	process_run:download_references:download_references_by_taxid (2)	CACHED	0	2023-09-25 23:45:26.691	19s	17.3s	8.6%	31.2 MB	2.2 GB	6.5 MB	476.9 KB
+7	19/9dcc9d	316992	process_run:download_references:download_references_by_taxid (3)	CACHED	0	2023-09-25 23:45:45.682	16.4s	14.8s	7.4%	30.1 MB	2.2 GB	5.6 MB	184.7 KB
+10	db/141f6a	317022	process_run:download_references:filter_references (2)	CACHED	0	2023-09-25 23:45:45.744	3.3s	1.6s	142.0%	48.4 MB	2.1 GB	5.5 MB	36.2 KB
+11	2f/892cc2	321424	process_run:download_references:filter_references (3)	CACHED	0	2023-09-25 23:46:02.247	3s	1.6s	130.1%	56.8 MB	2.1 GB	5.5 MB	12.3 KB
+9	7e/b77fc5	313118	process_run:download_references:filter_references (1)	CACHED	0	2023-09-25 23:45:27.739	3.3s	1.6s	140.1%	50.7 MB	2.1 GB	5.6 MB	102.5 KB
+5	6a/ad2a9f	300669	process_run:move_or_compress (2)	CACHED	0	2023-09-25 23:44:50.410	3.7s	2s	182.4%	8 MB	236.6 MB	153.5 MB	149.1 MB
+12	65/3981b2	300623	process_run:move_or_compress (3)	CACHED	0	2023-09-25 23:44:50.213	2.5s	1s	178.8%	1.1 MB	5.3 MB	44.4 MB	43.5 MB
+13	90/b7e6a9	301461	process_run:move_or_compress (4)	CACHED	0	2023-09-25 23:44:52.786	5s	4s	186.4%	5.2 MB	14.5 MB	283.7 MB	276.9 MB
+15	75/2121d1	302849	process_run:move_or_compress (6)	CACHED	0	2023-09-25 23:44:56.525	3.3s	1s	179.6%	4.1 MB	9.9 MB	108.3 MB	105.8 MB
+14	c7/ae4015	301925	process_run:move_or_compress (5)	CACHED	0	2023-09-25 23:44:54.147	5s	4s	193.0%	8.3 MB	237.6 MB	307.3 MB	300.6 MB
+17	97/039596	303271	process_run:move_or_compress (8)	CACHED	0	2023-09-25 23:44:57.859	1.8s	0ms	46.9%	3 MB	5.4 MB	1.1 MB	957.1 KB
+18	8a/294553	303781	process_run:move_or_compress (9)	CACHED	0	2023-09-25 23:44:59.136	1.8s	1s	48.5%	3.1 MB	5.4 MB	64.9 KB	6.1 KB
+19	f6/9d16d6	303876	process_run:move_or_compress (10)	CACHED	0	2023-09-25 23:44:59.682	2.2s	0ms	27.1%	1.1 MB	5.3 MB	105 KB	13.7 KB
+20	3a/0dc1ce	303917	process_run:move_or_compress (11)	CACHED	0	2023-09-25 23:44:59.818	2.2s	1s	28.7%	3.1 MB	5.4 MB	128.7 KB	21 KB
+16	76/02bd72	304325	process_run:move_or_compress (7)	CACHED	0	2023-09-25 23:45:00.989	6.1s	4s	181.1%	8.6 MB	237.6 MB	336.7 MB	328.9 MB
+21	db/a0dbb9	304512	process_run:move_or_compress (12)	CACHED	0	2023-09-25 23:45:01.893	1.6s	0ms	35.2%	1.1 MB	5.3 MB	97.7 KB	6.3 KB
+22	e8/0d7cb4	304565	process_run:move_or_compress (13)	CACHED	0	2023-09-25 23:45:02.089	2.2s	0ms	31.4%	1.1 MB	5.3 MB	138.9 KB	31.1 KB
+23	f7/8311ea	305158	process_run:move_or_compress (14)	CACHED	0	2023-09-25 23:45:03.513	1.7s	0ms	33.3%	1.1 MB	5.3 MB	82 KB	7 KB
+24	74/106a13	305305	process_run:move_or_compress (15)	CACHED	0	2023-09-25 23:45:04.365	1.6s	0ms	30.8%	1.1 MB	5.3 MB	108.1 KB	16.7 KB
+25	da/2a228c	305705	process_run:move_or_compress (16)	CACHED	0	2023-09-25 23:45:05.238	1.7s	1s	30.2%	1.1 MB	5.3 MB	240.9 KB	115.9 KB
+26	f5/dd0eb9	306053	process_run:move_or_compress (17)	CACHED	0	2023-09-25 23:45:06.009	2.5s	0ms	28.4%	1.1 MB	5.3 MB	136.6 KB	12.6 KB
+27	98/e02a5f	306242	process_run:move_or_compress (18)	CACHED	0	2023-09-25 23:45:06.971	2.4s	0ms	25.7%	3 MB	5.4 MB	123.6 KB	15.9 KB
+28	f4/b688b4	306282	process_run:move_or_compress (19)	CACHED	0	2023-09-25 23:45:07.089	2.4s	0ms	30.4%	3 MB	5.4 MB	152.1 KB	28 KB
+29	ed/d56fb8	306765	process_run:move_or_compress (20)	CACHED	0	2023-09-25 23:45:08.548	2.2s	0ms	30.3%	1.1 MB	5.3 MB	270.3 KB	144.4 KB
+30	57/398be5	306863	process_run:move_or_compress (21)	CACHED	0	2023-09-25 23:45:09.383	1.6s	0ms	27.8%	1.1 MB	5.3 MB	115.6 KB	24.1 KB
+31	55/b7141f	306906	process_run:move_or_compress (22)	CACHED	0	2023-09-25 23:45:09.558	1.8s	0ms	28.4%	3 MB	5.4 MB	82.5 KB	7.4 KB
+32	b6/683b5b	307357	process_run:move_or_compress (23)	CACHED	0	2023-09-25 23:45:10.776	2s	1s	28.1%	3.1 MB	5.4 MB	160.4 KB	36.2 KB
+33	92/ce2d0c	307538	process_run:move_or_compress (24)	CACHED	0	2023-09-25 23:45:11.363	10s	8s	181.9%	8.9 MB	237.6 MB	591.3 MB	580.5 MB
+34	d8/5c8e52	322544	process_run:generate_assembly_report (1)	FAILED	1	2023-09-25 23:53:44.567	3.2s	3.2s	-	-	-	-	-
